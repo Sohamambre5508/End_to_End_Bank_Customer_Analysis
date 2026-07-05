@@ -1,7 +1,5 @@
 # 🏦 Banking Analytics Dashboard | Python + Power BI
 
-![Home Dashboard](**Images/Home%20Dashboard.png**)
-
 A comprehensive Banking Analytics Dashboard built using **Power BI**, **Python**, and **DAX** to analyze customer banking behavior, loans, deposits, credit cards, and business lending. The project includes complete **Exploratory Data Analysis (EDA)** in Python followed by an interactive Power BI dashboard for business decision-making.
 
 ---
@@ -162,7 +160,7 @@ The report consists of multiple interactive pages.
 
 ## 🏠 Home Dashboard
 
-Provides a quick overview of banking performance.
+![Home Dashboard](<img width="635" height="356" alt="Home_dashboard" src="https://github.com/user-attachments/assets/f431dbce-b258-4cb5-ab5e-8f8d64ec8ae3" />)
 
 ### KPIs
 
