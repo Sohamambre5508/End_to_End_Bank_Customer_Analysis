@@ -160,7 +160,7 @@ The report consists of multiple interactive pages.
 
 ## 🏠 Home Dashboard
 
-![Home Dashboard](Images/Home_dashboard.png)
+
 
 ### KPIs
 
@@ -288,13 +288,14 @@ Examples include:
 
 ## Home Dashboard
 
-> *(Add Home Dashboard Screenshot Here)*
+> <img width="635" height="356" alt="Home_dashboard" src="https://github.com/user-attachments/assets/f2a36081-ca23-4d47-9ed6-0b7ea73aae8d" />
+
 
 ---
 
 ## Loan Analysis
 
-> *(Add Loan Analysis Screenshot Here)*
+> 
 
 ---
 
